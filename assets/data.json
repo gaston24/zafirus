@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1", 
+        "titulo": "body", 
+        "descripcion": "creacion del body completo de la app", 
+        "estado": "Done"
+    }, 
+    {
+        "id": "2", 
+        "titulo": "header", 
+        "descripcion": "creacion del header completo de la app", 
+        "estado": "Pending"
+    }, 
+    {
+        "id": "3", 
+        "titulo": "footer", 
+        "descripcion": "creacion del footer completo de la app", 
+        "estado": "Progress"
+    }, 
+    {
+        "id": "4", 
+        "titulo": "head modify", 
+        "descripcion": "modificar el head", 
+        "estado": "Pending"
+    }, 
+    {
+        "id": "5", 
+        "titulo": "style", 
+        "descripcion": "editar el style", 
+        "estado": "Pending"
+    }, 
+    {
+        "id": "6", 
+        "titulo": "scroll", 
+        "descripcion": "reparar el scroll", 
+        "estado": "Progress"
+    }, 
+    {
+        "id": "7", 
+        "titulo": "refresh", 
+        "descripcion": "revisar refresh, no funciona", 
+        "estado": "Pending"
+    }, 
+    {
+        "id": "8", 
+        "titulo": "limit", 
+        "descripcion": "limite de query", 
+        "estado": "Done"
+    }, 
+    {
+        "id": "9", 
+        "titulo": "asd", 
+        "descripcion": "fdusfhisd", 
+        "estado": "Pending"
+    }, 
+    {
+        "id": "10", 
+        "titulo": "asd", 
+        "descripcion": "lorem ipsum", 
+        "estado": "Progress"
+    }
+]
